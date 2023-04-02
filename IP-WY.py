@@ -1,15 +1,16 @@
-import requests, webbrowser, socket
+import requests, webbrowser, socket, os
 from ast import Try
 from email import header
 
 try:
-    import requests, webbrowser, socket
+    import requests, webbrowser, socket, os
     from ast import Try
     from email import header
 except ImportError:
     os.system("pip install requests")
     os.system("pip install webbrowser")
     os.system("pip install socket")
+    os.system("pip install os")
     os.system("pip install ast")
     os.system("pip install email")
 
