@@ -6,7 +6,7 @@ try:
     import requests, webbrowser, socket, os
     from ast import Try
     from email import header
-except ImportError:
+except ModuleNotFoundError:
     os.system("pip install requests")
     os.system("pip install webbrowser")
     os.system("pip install socket")
@@ -32,7 +32,7 @@ DarkPink = "\033[2;35m"    #Dark Pink
 DarkCyan = "\033[2;36m"    #Dark Cyan
 #--------------------------------
 
-print(Red+"""
+print("""\033[1;31m
 ⠛⠛⣿⣿⣿⣿⣿⡷⢶⣦⣶⣶⣤⣤⣤⣀
 ⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡀               ██▓ ██▓███   █     █░▓██   ██▓
     ⠉⠉⠉⠙⠻⣿⣿⠿⠿⠛⠛⠛⠻⣿⣿⣇             ▓██▒▓██░  ██▒▓█░ █ ░█░ ▒██  ██▒
@@ -134,4 +134,4 @@ if option == "2":
     print("\033[1;31mDevice Host Name \033[1;37m: \033[1;37m"+device_hostname+"\n\033[1;31mDevice IP \033[1;37m: \033[1;32m"+device_IP)
 
 else:
-    print("Please Choose A Valid Number!")
+    print("\033[1;31mPlease Choose A Valid Number!")
