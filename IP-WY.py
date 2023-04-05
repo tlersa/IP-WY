@@ -45,7 +45,7 @@ print("""\033[1;31m
 ⠀⠀⠀⠀⠀⠀⠀⢐⣿⣾⣿⣿⣿⣿⣿⣿⣿⣿                 ▒ ░░░         ░   ░   ▒ ▒ ░░
 ⠀⠀⠀⠀⠀⠀⠀⠈⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀                ░               ░     ░ ░
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠻⢿⣿⣿⣿⣿⠟⠁                 ░ \n""")
-print("\033[1;37mThis Tool Was Programmed By : TLER AL-BISHI", "\nWebsite For All Accs : \033[1;34mhttps://linktr.ee/tler.sa")
+print("\033[1;37mThis Tool Was Programmed By : TLER AL-BISHI \nWebsite For All Accs : \033[1;34mhttps://linktr.ee/tler.sa")
 print("\033[1;37m- "*25)
 
 print("\033[1;37m[\033[1;33m1\033[1;37m] - Website IP Info | \033[1;37m[\033[1;33m2\033[1;37m] - Your Device IP Info")
