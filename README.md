@@ -1,19 +1,22 @@
 # IP-WY Tool
-It Has 2 Options, The First Is To Pull The Info Of Any Website Once You Put The IP And If You Don't Have The IP It Will Fetch It For You With The First Command Only By Placing The Website URL And If You Have The IP You Can Skip The Command, And The Second Option Is To Extract The HostName And The IP Of Your Device.
+فيها خيارين، الأول هو سحب معلومات أي موقع بمجرد وضع آيبي الموقع وإذا لم يكن لديك الآيبي سيجلبه لك بالأمر الأول بوضع رابط الموقع فقط وإذا كان لديك الآيبي تستطيع تخطي الأمر، والخيار الثاني هو إستخراج اسم الخادم الإفتراضي وآيبي جهازك.
 
-Commands - First Option :
-- [1] - Website IP Info | [2] - Your Device IP ... 
-Choose A Number : Choose Number
+• الأوامر - الخيار الأول :
+- [1] - Website IP Info | [2] - Your Device IP
+- Choose A Number : إختر رقم
 
-- [1] - Enter The URL : Enter The Link Of The Website Whose IP You Want To Withdraw
-- [2] - Enter The IP : Enter The IP
+[1] - Enter The URL : ادخل رابط الموقع المراد سحب الآيبي الخاص به
 
-Commands - Second Option :
-- [1] - Website IP Info | [2] - Your Device IP ... 
-Choose A Number : Choose Number
+- [2] - Enter The IP : ادخل الآيبي
 
-Advantages :
-- Free And Open Source ✔️
-- Multiple Options ✔️
-- If The Required Offices Aren't Installed ( requests - webbrowser - socket - ast - email ) They Will Be Installed Auto ✔️
-- Cred Of Info By 99% ✔️ 
+• الأوامر - الخيار الثاني :
+- [1] - Website IP Info | [2] - Your Device IP
+- Choose A Number : إختر رقم
+
+• المميزات :
+- مجانية ومفتوحة المصدر ✔️
+- متعددة الخيارات أو الوظائف ✔️
+- في حال لم تكن مثبت المكاتب المطلوبة ( requests - webbrowser - socket - ast - email ) سيتم تثبيتها تلقائياً ✔️
+- المصداقية في المعلومات بنسبة 99%✔️
+
+تنبيه هام ⚠️ : نحن لسنا مسؤولون عن أي إستخدام خاطئ للأداة -
