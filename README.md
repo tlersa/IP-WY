@@ -3,7 +3,7 @@
 
 • الأوامر - الخيار الأول :
 - [1] - Website IP Info | [2] - Your Device IP
-- Choose A Number : إختر رقم
+Choose A Number : إختر رقم
 
 - [1] - Enter The URL : ادخل رابط الموقع المراد سحب الآيبي الخاص به
 
