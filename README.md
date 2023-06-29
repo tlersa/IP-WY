@@ -5,9 +5,9 @@
 - [1] - Website IP Info | [2] - Your Device IP
 Choose A Number : إختر رقم
 
-- [1] - Enter The URL : ادخل رابط الموقع المراد سحب الآيبي الخاص به
+- [1] - Enter The URL : أدخل رابط الموقع المراد سحب الآيبي الخاص به
 
-- [2] - Enter The IP : ادخل الآيبي
+- [2] - Enter The IP : أدخل الآيبي
 
 #### الأوامر - الخيار الثاني
 - [1] - Website IP Info | [2] - Your Device IP
